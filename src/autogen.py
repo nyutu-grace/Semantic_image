@@ -11,7 +11,7 @@ import openai
 config_list = [
     {
         'model': 'gpt-3.5-turbo-16k',
-        'api_key': 'your_openai_api_key',
+        'api_key': '',
     },
 ]
 
