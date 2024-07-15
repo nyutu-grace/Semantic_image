@@ -1,0 +1,20 @@
+names:
+- Trees
+- action
+- cars
+- characters
+- logo
+- message
+- palace
+- persons
+- words
+nc: 9
+roboflow:
+  license: CC BY 4.0
+  project: train-yolo-a7lva
+  url: https://universe.roboflow.com/digitaladvertising/train-yolo-a7lva/dataset/1
+  version: 1
+  workspace: digitaladvertising
+test: ../test/images
+train: train-yolo-1/train/images
+val: train-yolo-1/valid/images

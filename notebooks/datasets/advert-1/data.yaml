@@ -1,0 +1,29 @@
+names:
+- Animation Frames
+- Background Image
+- Banner
+- Coupon or Offer Code
+- Decorative Elements
+- Icon
+- Illustration
+- Legal Disclaimers or Terms
+- Logo
+- Map or Location Image
+- Mascot
+- Photograph
+- Product Image
+- QR Code
+- Seal or Badge
+- Social Proof
+- Testimonial Quotes
+- Text Elements
+nc: 18
+roboflow:
+  license: CC BY 4.0
+  project: advert
+  url: https://universe.roboflow.com/digitaladvertising/advert/dataset/1
+  version: 1
+  workspace: digitaladvertising
+test: ../test/images
+train: advert-1/train/images
+val: advert-1/valid/images
